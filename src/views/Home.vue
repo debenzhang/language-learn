@@ -1,19 +1,20 @@
 <template>
   <div class="home">
-    <div class="links">
-      <p class="lesson-link">
-        <el-link type="primary" href="#/lesson/1">1. Find Your Greatness</el-link>
-      </p>
-      <p class="lesson-link">
-        <el-link type="primary" href="#/lesson/1">2. Find Your Greatness</el-link>
-      </p>
-      <p class="lesson-link">
-        <el-link type="primary" href="#/lesson/1">3. Find Your Greatness</el-link>
-      </p>
-      <p class="lesson-link">
-        <el-link type="primary" href="#/lesson/1">4. Find Your Greatness</el-link>
-      </p>
-    </div>
+    <h2>The Fastest Way of Learn Language</h2>
+    <el-divider></el-divider>
+
+    <el-row>
+      <el-col :span="8">
+        <div class="links">
+          <p><a type="primary" href="#/lesson/1">1. Find Your Greatness</a></p>
+          <p><a type="primary" href="#/lesson/2">2. Ideas Are Scary</a></p>
+        </div>
+      </el-col>
+      <el-col :span="8"></el-col>
+      <el-col :span="8"><div class="grid-content bg-purple"></div></el-col>
+    </el-row>
+
+    
     <!-- <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
@@ -33,9 +34,10 @@ export default {
 
 <style scoped>
 .links {
-  margin-top: 100px;
+  padding: 10px 20px;
+  text-align: left;
 }
 .lesson-link {
-  font-size: 20px;
+  font-size: 24px;
 }
 </style>

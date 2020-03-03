@@ -1,43 +1,24 @@
 <template>
   <div class="home">
-    <el-row>
-      <el-col :span="12">
-        <div class="content">
-          <h4>
-            Find Your Greatness
-          </h4>
-          <p>
-            Greatness. It’s just something we made up.
-            Somehow we’ve come to believe that greatness is a gift,
-            <span style="color:#FF9900;"><strong>reserved</strong></span> for a chosen few - for <span style="color:#FF9900;"><strong>prodigies</strong></span>, for superstars - and the <span style="color:#FF9900;"><strong>rest</strong></span> of us can only stand by watching. You can forget that. Greatness is not some <span style="color:#FF9900;"><strong>rare</strong></span> DNA strand. It’s not some <span style="color:#FF9900;"><strong>precious</strong></span> thing. Greatness is no more <span style="color:#FF9900;"><strong>unique</strong></span> to us than breathing. We’re all <span style="color:#FF9900;"><strong>capable</strong></span> of it, all of us.
-          </p>
-        </div>
-      </el-col>
-      <el-col :span="12">
+    <div class="content">
+      <h2>Find Your Greatness</h2><p><strong style="color: rgb(255, 153, 0);">Greatness</strong>.</p><p> It’s just something we made up.</p><p> <strong style="color: rgb(255, 153, 0);">Somehow </strong>we’ve come to believe that greatness is a gift, <strong style="color: rgb(255, 153, 0);">reserved </strong>for a chosen few - for <strong style="color: rgb(255, 153, 0);">prodigies</strong>, for superstars - and the <strong style="color: rgb(255, 153, 0);">rest </strong>of us can only stand by watching.</p><p> You can forget that.</p><p> Greatness is not some rare DNA <strong style="color: rgb(255, 153, 0);">strand</strong>.</p><p> It’s not some <strong style="color: rgb(255, 153, 0);">precious </strong>thing.</p><p> Greatness is no more <strong style="color: rgb(255, 153, 0);">unique </strong>to us than breathing.</p><p> We’re all <strong style="color: rgb(255, 153, 0);">capable</strong> of it, all of us.</p>
 
-        <div class="info">
+    </div>
 
-          <h4>一、核心词汇</h4>
-          <p><span class="key-word">make up</span> 编造</p>
-          <p><span class="key-word">gift</span> [gɪft] n. 礼物；天赋</p>
-          <p><span class="key-word">reserve</span> [rɪ`zɜːv] vt.保留；预留</p>
-          <p><span class="key-word">prodigy</span> [,prɑdədʒi] n. 奇才</p>
-          <p><span class="key-word">DNA</span> 基因（deoxyribonucleic acid，脱氧核糖核酸）</p>
-          <p><span class="key-word">strand</span> [strænd] n. 线；串；缕</p>
-          <p><span class="key-word">precious</span> [,preʃəs] adj. 宝贵的；珍贵的</p>
-          <p><span class="key-word">unique</span> [juː`niːk] adj. 唯一的；独一无二的</p>
-          <p><span class="key-word">capable</span> [,keɪpəb(ə)l] adj. 能干的，能胜任的</p>
+    <div class="info">
 
-          <h4>二、核心表达</h4>
-          <p><span class="key-word">come to do sth.</span> 过来做某事/ 渐渐做某事</p>
-          <p><span class="key-word">be reserved for sb.</span> 为某人预留</p>
-          <p><span class="key-word">be no more… than…</span> 不比……更……</p>
-          <p><span class="key-word">be capable of sth. / doing sth.</span> 有能力做某事</p>
+      <h3>一、核心词汇</h3><p><strong style="color: rgb(0, 102, 204);">make up</strong> 编造</p><p><strong style="color: rgb(0, 102, 204);"> gift [gɪft] n. </strong>礼物；天赋</p><p><strong style="color: rgb(0, 102, 204);"> reserve [rɪ</strong>`<strong style="color: rgb(0, 102, 204);">zɜːv] vt.</strong>保留；预留</p><p><strong style="color: rgb(0, 102, 204);"> prodigy [,prɑdədʒi] n.</strong> 奇才 </p><p><strong style="color: rgb(0, 102, 204);">DNA</strong> 基因（deoxyribonucleic acid，脱氧核糖核酸） </p><p><strong style="color: rgb(0, 102, 204);">strand [strænd] n.</strong> 线；串；缕 </p><p><strong style="color: rgb(0, 102, 204);">precious [,preʃəs] adj. </strong>宝贵的；珍贵的</p><p> <strong style="color: rgb(0, 102, 204);">unique [juː</strong>`<strong style="color: rgb(0, 102, 204);">niːk] adj.</strong> 唯一的；独一无二的 </p><p><strong style="color: rgb(0, 102, 204);">capable [,keɪpəb(ə)l] adj.</strong> 能干的，能胜任的&nbsp;</p>
 
-        </div>
+      <h3>二、核心表达</h3><p><strong style="color: rgb(255, 153, 0);"> come to do sth. </strong>过来做某事/ 渐渐做某事</p><p><strong style="color: rgb(255, 153, 0);"> be reserved for sb.</strong> 为某人预留</p><p><strong style="color: rgb(255, 153, 0);"> be no more… than…</strong> 不比……更……</p><p><strong style="color: rgb(255, 153, 0);"> be capable of sth. / doing sth. </strong>有能力做某事</p>
 
-      </el-col>
-    </el-row>
+      <h3>三、文本精讲</h3><p><strong style="color: rgb(230, 0, 0);"> Greatness. </strong>伟大。</p><p>这里其实非常有深意，因为叙述当中的刻意停顿，能够为我们营造一个短暂的思考时间，到底是什么“伟大”？</p><p>你心里是如何定义“伟大”这两个字的呢？随后，文章给出 了自己的观点：</p><p><strong style="color: rgb(230, 0, 0);">It‟s just something</strong> 伟大只是一件事</p><p>什么事呢？</p><p><strong style="color: rgb(230, 0, 0);">we made up.</strong> 我们编造出来的（事）。</p><p>也就是说：伟大只是我们编造出来的事情。 </p><p>这句话里有两个点我们需要注意：</p><p>首先是一个短语，叫做 <strong style="color: rgb(230, 0, 0);">make up sth.</strong>，也就是“<strong style="color: rgb(230, 0, 0);">编造某事</strong>”。 </p><p><br></p><p>其次，通过这一句话，我希望大家能够看出外国人和中国人在表达观点上的一个明 显区别，那就是：西方人思考和表达一个观点的时候，相对中国人，更加喜欢开门见山，先把句子主干说出来，伟大只是“一件事”（Greatness is just “something”）， 具体是什么事呢？然后再把细节的修饰语（限定的部分，也就是“定语”）放在后面， 来表达“我们编造出来的”事（"we made up”），这种把定语放在名词后面的语法现 象，就是我们在英语语法当中经常见到的“<strong style="color: rgb(230, 0, 0);">后置定语</strong>”。</p><p>我再给大家举一个简单的后置定语的例子，比如说：</p><p><strong style="color: rgb(230, 0, 0);">This is the word I‟ve been looking for.</strong> 这就是我一直找的那个词。</p><p>我们对比一下中英文的表达，英文会先说 This is the word（这就是那个词），先把 重点 the word 说出来，再用后置定语来补充具体是哪个词呢？I’ve been looking for， 也就是“我一直在找的那个”；而汉语的翻译，会直接把定语提到前面，说成：这就 是“我一直找的那个”词。</p><p><strong style="color: rgb(230, 0, 0);">Somehow</strong> 不知道怎么回事</p><p><strong style="color: rgb(230, 0, 0);">we‟ve come to believe</strong> 我们渐渐地认为</p><p>这里有一个很简单，但是大家却很容易忽略的结构，叫做：come to do sth. </p><p>首先，<strong style="color: rgb(230, 0, 0);">come to do sth. </strong>最基本的意思，表示“<strong style="color: rgb(230, 0, 0);">过来做某事</strong>”。比如说：<strong style="color: rgb(230, 0, 0);">I come to pick you up.</strong>（我是过来接你的。）</p><p>但是，在生活当中，come to do sth. 还可以表示“渐渐地走到了做某事的阶段”，我 们直接就可以理解成“<strong style="color: rgb(230, 0, 0);">渐渐地</strong>”，have come to 是一个现在完成时，也就是“已经渐渐地”，比如说：<strong style="color: rgb(230, 0, 0);">Now I‟ve finally come to realize the benefit of reading.</strong>（现在 我终于渐渐意识到了阅读的好处。）</p><p>紧接着后面是一个 that 引导的宾语从句，表示相信的“一件事”，什么事呢？</p><p><strong style="color: rgb(230, 0, 0);">that greatness is a gift</strong> 伟大是一种天赋，</p><p>那么什么样的人才有这种天赋呢？ <strong style="color: rgb(230, 0, 0);">reserved for a chosen few</strong>, 预留给那些被选中的人，</p><p>这里有个结构，叫做 <strong style="color: rgb(230, 0, 0);">be reserved for sb.</strong>（预留给某人），只不过因为这句话的前 半句 greatness is a gift 里面已经有了 is 这个 be 动词，所以这里直接省略掉了 be 动词，避免表达累赘；</p><p>具体预留给哪些人呢？破折号后面给我们举了具体两个例子：</p><p><strong style="color: rgb(230, 0, 0);">— for prodigies, for superstars —</strong> 比如一些奇才或者一些超级明星，</p><p>那我们其他相对比较平凡的人呢？下面紧接着说：</p><p><strong style="color: rgb(230, 0, 0);">and the rest of us can only stand by watching.</strong> 而我们其他人只能站在一旁观 望而已。</p><p>这里有个短语，叫做 <strong style="color: rgb(230, 0, 0);">stand by</strong>，意思是“<strong style="color: rgb(230, 0, 0);">站在一旁什么也不做</strong>”，后面的 watching 这个动名词是一个动词后面伴随的状语，stand by watching 字面意思是“站在一旁 观望”，也就是无法变成伟人，只能作观众。</p><p>我再把这一整句话的中英文为大家完整讲一遍：</p><p><strong style="color: rgb(230, 0, 0);">Somehow we`ve come to believe that greatness is a gift, reserved for a chosen few — for prodigies, for superstars — and the rest of us can only stand by watching.</strong></p><p>不知道为什么，我们渐渐地把伟大当成是为少数特定人选预留的天赋，比如奇才、 超级明星，而我们其他人只能站在一旁作观众。</p><p>这么看这句话，对于我们这些普通人来讲，是多么地不公平。难道说我们这辈子当 不了奇才，也做不了超级明星，就配不上“伟大”二字了吗？下面，就让我们看看这 篇文章是如何反击的吧：</p><p>首先是一句强有力的祈使句：</p><p><strong style="color: rgb(230, 0, 0);">You can forget that.</strong> 你可以把这些常规定义的“伟大”忘掉了。</p><p>然后是一连三个否定句，告诉我们“伟大不是什么”：</p><p><strong style="color: rgb(230, 0, 0);">Greatness is not some rare DNA strand.</strong> 伟大不是什么稀有基因链。</p><p><strong style="color: rgb(230, 0, 0);">It‟s not some precious thing.</strong> 伟大不是什么宝贵的东西。</p><p>这里可能有的同学会有一个疑问，为什么 precious thing 作为单数前面要加一个 some，some 不是“一些”的意思吗？大家不要误会，some 除了有“一些”的意思， 也有“某个”的意思，someone，就是“某个人”，所以 some precious thing，其实不 是“一些宝贵的东西”，而是“某种宝贵的东西”。</p><p><strong style="color: rgb(230, 0, 0);">Greatness is no more unique to us than breathing.</strong> 伟大并不比呼吸更独特。</p><p>这里有个结构，叫做 <strong style="color: rgb(230, 0, 0);">be no more… than sth.</strong> 也就是“不比某种东西更如何”。同时， 最后一个单词 breathing 是 breathe（动词“呼吸”）的动名词形式，强调的是“呼吸的 动作”，确切地来翻译，也就是说，伟大并不比我们呼吸这个动作更特别，但是如果 直接用名词 breath（呼吸），虽然在汉语翻译上没有什么差别，但是在英文的表达 上就没有那么有力度了，希望大家能够体会一下这一点。</p><p>然后就是这篇短文的最后一句话，也是全文最有力的一句话：</p><p><strong style="color: rgb(230, 0, 0);">We‟re all capable of it</strong>, 我们都能变得伟大，</p><p>这里有个很好的句型，叫做 <strong style="color: rgb(230, 0, 0);">be capable of sth.</strong> 或者 <strong style="color: rgb(230, 0, 0);">be capable of doing sth.</strong> 也 就是“<strong style="color: rgb(230, 0, 0);">有能力做某事</strong>”。 </p><p>文章的最后还特别强调了一下： </p><p><strong style="color: rgb(230, 0, 0);">all of us.</strong> 我们当中的每一个人。</p>
+
+      <h3>四、参考译文</h3><p class="ql-align-center"><strong>发现你的伟大</strong></p><p>伟大，只是我们编造出来的。不知道为什么，我们渐渐地把伟大当成是为少数特定 人选预留的天赋，比如奇才、超级明星，而我们其他人只能站在一旁观望而已。你 可以忽略这些。伟大不是什么稀有基因链。也不是什么珍贵的东西。伟大对于我们 来说，其实和呼吸一样。我们中的每一个人，都有能力做到。</p>
+
+      <h3>五、亮解单词</h3><p>1. gift [gɪft] n. 礼物；天赋</p><p>这个词和 give（给）相关，所谓的“天赋”就是“上天赐给的礼物”，这也就是为什么 gift 还有“礼物”的意思。</p><p><br></p><p>2. reserve [rɪ‟zɜːv] vt. 保留；预留</p><p>这个词的前缀 re-表示“回来、再次”，后面的-serv-作词根，意思是“看管”，reserve 的字面意思，是“在原地看好”、“不要被别人占了”，也就是“预留、保留”的意思。生 活当中，如果我们要打电话预约餐厅座位或者酒店房间，经常会用到 reserve 这个 词，比如说：I‟d like to reserve a table for two. 我想预约一个二人桌。</p><p>谈到 reserve，还有一个大家需要注意的在词汇进阶学习上很容易搞混的地方，那 就是 reserve 这个词，虽然后面的 serve 从写法上和 serve（服务）长得一样，但 是这两个单词并没有直接的词源关系，这也就是我在《杨亮讲单词·方法篇》里跟大 家提到过的“外形相同但是来源不同的词汇”，简称“异源同形词”。不过庆幸的是， 英语里的异源同形词并不多见，所以大家不要害怕。</p><p>-serv-表示“看管”，我再跟大家举一个比较实用的单词：</p><p>conserve [kən‟sɜːv] vt. 保存</p><p>前缀 con-和 com-一样，都表示“来、共同”，在 conserve 这个单词前面起到的是强 调的作用，conserve 的字面意思就是“看管好”，也就是动词“保存”。生活当中，我 们说一个人的思想观念很“守旧、保守”，也就是“把老一辈的思想保存得很好”，英文 叫做 conservative（保守的），用到的就是 conserve 的形容词形式。比如说：She‟s a very conservative woman. 她是一个很保守的女人。</p><p><br></p><p>3. prodigy [„prɑdədʒi] n. 奇才</p><p>这个词的构词颇有几分迷信色彩，前缀 pro-表示“向前”，最后是名词后缀-y，中间 的-dig-和词根-dict-有关，表示“说话”，比如说 dictionary（教人说话的工具，也就 是“字典”）。</p><p>prodigy 的字面意思，是在事情还没发生之前，就“把话说在前面”，很像是一种“上 天的预兆”，预示着一个天才的诞生。中国古代的历史文献当中，经常记载着一些 开国皇帝或者英雄在出生前，常常会伴随着一些预兆，比如据说汉高祖刘邦在出生 时“雷电交加、风雨大作，天地为之昏暗，有蛟龙自天外破窗而入，盘旋于产床之上”， 这就是一种典型的用迷信的说法来解释一个人天生就与众不同。中西方虽然语言不 通，但是在很多词汇的造词上都有着异曲同工之妙，接下来我们也会经常见到。</p><p><br></p><p>4. DNA 基因（deoxyribonucleic acid，脱氧核糖核酸）</p><p>DNA 是一个缩写词，英语当中常见的缩写词有两类：</p><p>第一类是全称太长不好读，比如 ATM，全称是 Automatic Teller Machine（自动 提款机），缩写起到的是提高表达效率的作用；</p><p>第二类之所以缩写，是因为全称实在是太晦涩难懂了，DNA 就是这样一个缩写，它 的全称叫做 deoxyribonucleic acid（脱氧核糖核酸），也就是我们人体内“储藏遗 传信息的有机化合物”，这个缩写词的全称，除了专业领域的人士之外，很多外国人 自己都不知道，所以我们只需要知道它的通俗含义是“基因”就够了。</p><p><br></p><p>5. strand [strænd] n. 线；串；缕</p><p>英语里还有个词，无论是读音还是意思，都和 strand 很接近，叫做 string，也表示 “线、串”，但是和 strand 相比，string 强调的是“一根细线”或者“细绳”，所以 strig 也也可以表示乐器的“弦”，比如说：He changed one of the guitar string. 他换了 一根吉他弦。</p><p>而 strand 更多是“一组线”，也就是“一缕”，比如说“一缕头发”，英文就叫做 a strand of hair。 这就是为什么基因链会叫做 DNA strand，因为基因链本身就是双螺旋结构。</p><p><br></p><p>6. precious [„preʃəs] adj. 宝贵的；珍贵的</p><p>这个词前面的 preci 其实就是 price（价格）的变体，precious 字面意思是“有价格 的”，延伸含义“珍贵的、宝贵的”。</p><p><br></p><p>7. unique [juː‟niːk] adj. 唯一的；独一无二的</p><p>这个词的词根叫做-uni-（一），生活里我们说的“团结”，英语叫做 unite，也就是“变 成一个整体”。unique 字面意思是“只有一个的”，也就是形容“独一无二的”。</p><p><br></p><p>8. capable [„keɪpəb(ə)l] adj. 能干的，能胜任的</p><p>这个词前面的-cap-表示“拿”，我们之前学过的 accept（用手拿→接受），去掉表 示强调的前缀 ac-，后面的 cept 就是 cap 的变体。capable 的字面意思是“能拿起来 的”，很类似于我们汉语当中说的全盘“抓起”，也就是形容词“能干的、能胜任的”。&nbsp;</p>
+
+    </div>
+
   </div>
 </template>
 
@@ -52,16 +33,26 @@ export default {
 
 <style scoped>
 .content {
-  padding: 100px 20px;
+  position:fixed;
+  left:3px;
+  top:3px;
+  width: 45%;
+  height: 100%;
+  overflow-x: auto;
+
+  border-right:1px solid #aaa;
+
+  padding: 0px 10px;
   text-align: left;
   font-size: 20px;
-  line-height: 24px;
+  line-height:1.3em;
 }
 
 .info {
+  padding-left: 50%;
   text-align: left;
-  font-size: 18px;
-  line-height: 22px;
+  font-size: 16px;
+  line-height:1.3em;
 }
 
 .key-word {

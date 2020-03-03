@@ -10,7 +10,7 @@
       @change="onEditorChange($event)">
     </quill-editor>
     </div>
-    <div class="content">
+    <div class="content-editor">
       <el-input
         type="textarea"
         :autosize="{ minRows: 2, maxRows: 4}"
@@ -56,7 +56,7 @@ export default {
   width: 80%;
 }
 
-.content {
+.content-editor {
   margin-top: 20px;
   width: 80%;
 }

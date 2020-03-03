@@ -2,12 +2,13 @@
   <div class="home">
     <div class="content">
       <el-breadcrumb separator="/">
-        <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
+        <el-breadcrumb-item :to="{ path: '/' }">Home</el-breadcrumb-item>
       </el-breadcrumb>
 
       <el-divider></el-divider>
-
-      <h2>Find Your Greatness</h2><p><strong style="color: rgb(255, 153, 0);">Greatness</strong>.</p><p> It’s just something we made up.</p><p> <strong style="color: rgb(255, 153, 0);">Somehow </strong>we’ve come to believe that greatness is a gift, <strong style="color: rgb(255, 153, 0);">reserved </strong>for a chosen few - for <strong style="color: rgb(255, 153, 0);">prodigies</strong>, for superstars - and the <strong style="color: rgb(255, 153, 0);">rest </strong>of us can only stand by watching.</p><p> You can forget that.</p><p> Greatness is not some rare DNA <strong style="color: rgb(255, 153, 0);">strand</strong>.</p><p> It’s not some <strong style="color: rgb(255, 153, 0);">precious </strong>thing.</p><p> Greatness is no more <strong style="color: rgb(255, 153, 0);">unique </strong>to us than breathing.</p><p> We’re all <strong style="color: rgb(255, 153, 0);">capable</strong> of it, all of us.</p>
+      <div class="page">
+          <h2>Find Your Greatness</h2><p><strong style="color: rgb(255, 153, 0);">Greatness</strong>.</p><p> It’s just something we made up.</p><p> <strong style="color: rgb(255, 153, 0);">Somehow </strong>we’ve come to believe that greatness is a gift, <strong style="color: rgb(255, 153, 0);">reserved </strong>for a chosen few - for <strong style="color: rgb(255, 153, 0);">prodigies</strong>, for superstars - and the <strong style="color: rgb(255, 153, 0);">rest </strong>of us can only stand by watching.</p><p> You can forget that.</p><p> Greatness is not some rare DNA <strong style="color: rgb(255, 153, 0);">strand</strong>.</p><p> It’s not some <strong style="color: rgb(255, 153, 0);">precious </strong>thing.</p><p> Greatness is no more <strong style="color: rgb(255, 153, 0);">unique </strong>to us than breathing.</p><p> We’re all <strong style="color: rgb(255, 153, 0);">capable</strong> of it, all of us.</p>
+      </div>
 
     </div>
 
@@ -30,39 +31,6 @@
 
 <script>
 export default {
-  name: 'Lesson1',
-  components: {
-    // HelloWorld
-  }
+  name: 'Lesson1'
 }
 </script>
-
-<style scoped>
-.content {
-  position:fixed;
-  left:3px;
-  top:3px;
-  width: 45%;
-  height: 100%;
-  overflow-x: auto;
-
-  border-right:1px solid #aaa;
-
-  padding: 20px 10px;
-  text-align: left;
-  font-size: 20px;
-  line-height:1.3em;
-}
-
-.info {
-  padding-left: 50%;
-  text-align: left;
-  font-size: 16px;
-  line-height:1.3em;
-}
-
-.key-word {
-  color: brown;
-  font-weight: bold;
-}
-</style>

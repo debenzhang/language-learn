@@ -4,31 +4,25 @@
     <el-divider></el-divider>
 
     <el-row>
-      <el-col :span="8">
+      <el-col :span="12">
         <div class="links">
           <p><a type="primary" href="#/lesson/1">1. Find Your Greatness</a></p>
           <p><a type="primary" href="#/lesson/2">2. Ideas Are Scary</a></p>
+          <p><a type="primary" href="#/lesson/3">3. Airplane Announcement - Before Taking off</a></p>
+          <p><a type="primary" href="#/lesson/4">4. Airplane Announcement - After Landing</a></p>
+
         </div>
       </el-col>
-      <el-col :span="8"></el-col>
-      <el-col :span="8"><div class="grid-content bg-purple"></div></el-col>
+      <el-col :span="12"></el-col>
     </el-row>
 
-    
-    <!-- <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-  name: 'Home',
-  components: {
-    // HelloWorld
-  }
+  name: 'Home'
 }
 </script>
 

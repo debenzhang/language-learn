@@ -2,13 +2,14 @@
   <div class="home">
     <div class="content">
       <el-breadcrumb separator="/">
-        <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
+        <el-breadcrumb-item :to="{ path: '/' }">Home</el-breadcrumb-item>
       </el-breadcrumb>
 
       <el-divider></el-divider>
 
+    <div class="page">
       <h2>Ideas Are Scary</h2><p> Ideas are <strong style="color: rgb(255, 153, 0);">scary</strong>. </p><p>They come into this world ugly and <strong style="color: rgb(255, 153, 0);">messy</strong>.</p><p> Ideas are <strong style="color: rgb(255, 153, 0);">frightening</strong>, because they <strong style="color: rgb(255, 153, 0);">threaten</strong> what is known. </p><p>They are the <strong style="color: rgb(255, 153, 0);">natural</strong> born enemy of the way things are. </p><p>Yes, ideas are scary and messy and <strong style="color: rgb(255, 153, 0);">fragile</strong>. </p><p>But under the <strong style="color: rgb(255, 153, 0);">proper</strong> care, they become something beautiful.</p>
-    
+    </div>
     </div>
 
     <div class="info">
@@ -27,39 +28,6 @@
 
 <script>
 export default {
-  name: 'Lesson2',
-  components: {
-    // HelloWorld
-  }
+  name: 'Lesson2'
 }
 </script>
-
-<style scoped>
-.content {
-  position:fixed;
-  left:3px;
-  top:3px;
-  width: 45%;
-  height: 100%;
-  overflow-x: auto;
-
-  border-right:1px solid #aaa;
-
-  padding: 20px 10px;
-  text-align: left;
-  font-size: 20px;
-  line-height:1.3em;
-}
-
-.info {
-  padding-left: 50%;
-  text-align: left;
-  font-size: 16px;
-  line-height:1.3em;
-}
-
-.key-word {
-  color: brown;
-  font-weight: bold;
-}
-</style>

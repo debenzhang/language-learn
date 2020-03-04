@@ -34,6 +34,36 @@ const routes = [
     path: '/lesson/4',
     name: 'Lesson4',
     component: () => import('../page/4.vue')
+  },
+  {
+    path: '/lesson/5',
+    name: 'Lesson5',
+    component: () => import('../page/5.vue')
+  },
+  {
+    path: '/lesson/6',
+    name: 'Lesson6',
+    component: () => import('../page/6.vue')
+  },
+  {
+    path: '/lesson/7',
+    name: 'Lesson7',
+    component: () => import('../page/7.vue')
+  },
+  {
+    path: '/lesson/8',
+    name: 'Lesson8',
+    component: () => import('../page/8.vue')
+  },
+  {
+    path: '/lesson/9',
+    name: 'Lesson9',
+    component: () => import('../page/9.vue')
+  },
+  {
+    path: '/lesson/10',
+    name: 'Lesson10',
+    component: () => import('../page/10.vue')
   }
 ]
 
